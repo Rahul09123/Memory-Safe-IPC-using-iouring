@@ -1,0 +1,2 @@
+-I.ide_includes
+-D__linux__
