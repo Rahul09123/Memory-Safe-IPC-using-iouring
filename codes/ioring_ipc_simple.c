@@ -9,7 +9,7 @@
 #include <sys/mman.h>
 #include <sys/wait.h>
 
-#define MSG_SIZE   4096
+#define MSG_SIZE   4096 
 #define ITERATIONS 100000
 #define RING_SIZE  256      /* must be power of 2 */
 
